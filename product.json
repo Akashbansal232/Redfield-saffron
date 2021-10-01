@@ -1,0 +1,70 @@
+[
+{
+    "id": 1,
+    "product_name": "Redfield Kashmiri Saffron",
+    "category": "kashmiri saffron",
+    "category_id": 1,
+    "Price": 350,
+    "Quantity": "1gm",
+    "Image": "",
+    "Color": "Brown",
+    "Brand": "Redfield"
+},
+{
+    "id": 1,
+    "product_name": "Redfield Kashmiri Saffron",
+    "category": "kashmiri saffron",
+    "category_id": 1,
+    "Price": 1500,
+    "Quantity": "5gm",
+    "Image": "",
+    "Color": "Brown",
+    "Brand": "Redfield"
+},
+{
+    "id": 2,
+    "product_name": "Redfield Iraq Saffron",
+    "category": "Iraq saffron",
+    "category_id": 2,
+    "Price": 300,
+    "Quantity": "1gm",
+    "Image": "",
+    "Color": "Brown",
+    "Brand": "Redfield"
+},
+{
+    "id": 2,
+    "product_name": "Redfield Iraq Saffron",
+    "category": "Iraq saffron",
+    "category_id": 2,
+    "Price": 1200,
+    "Quantity": "5gm",
+    "Image": "",
+    "Color": "Brown",
+    "Brand": "Redfield"
+},
+{
+    "id": 3,
+    "product_name": "Redfield Blackpinch",
+    "category": "Blackpinh",
+    "category_id": 3,
+    "Price": 350,
+    "Quantity": "1gm",
+    "Image": "",
+    "Color": "Dark-Brown",
+    "Brand": "Redfield"
+},
+{
+    "id": 3,
+    "product_name": "Redfield Blackpinch",
+    "category": "Blackpinh",
+    "category_id": 3,
+    "Price": 1500,
+    "Quantity": "5gm",
+    "Image": "",
+    "Color": "Dark-Brown",
+    "Brand": "Redfield"
+}
+,
+
+]
